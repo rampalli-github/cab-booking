@@ -1,4 +1,7 @@
 # cab-booking
+![Build Status](https://travis-ci.com/rampalli-github/cab-booking.svg?branch=master)
+
+
 A demo project to design cab booking
 
 ## Problem Statement
@@ -25,7 +28,10 @@ The type of users of the system:
 - Support : The support person who can help resolve issues.
 ......
 
-Some simple scenarios are defined in the Concordion specifications.
-
 ## Components.
 ![Components](components.png)  
+
+
+Some simple scenarios are defined in the Concordion specifications.
+![ConcordionReport](BookCabConcordion.png)
+
